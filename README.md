@@ -1,6 +1,6 @@
 # :sparkles:Random Quote Machine:sparkles:
 
-## Description
+## :scroll:Description
 
 **Random Quote Machine** is a web application that displays random quotes from famous personalities. Each time you click the button, a new inspiring or humorous quote appears. This project was created as part of earning a GitHub certification and showcases frontend development skills using modern technologies.
 ### 🔗 [Link to certification](https://github.com/KaninGleb/FreeCodeCamp-Certification)
