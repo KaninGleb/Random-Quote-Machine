@@ -1,12 +1,34 @@
-# React + Vite
+# :sparkles:Random Quote Machine:sparkles:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+**Random Quote Machine** is a web application that displays random quotes from famous personalities. Each time you click the button, a new inspiring or humorous quote appears. This project was created as part of earning a GitHub certification and showcases frontend development skills using modern technologies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Fetches and displays a random quote on button click
+- Share quotes on social media (Twitter, Facebook)
+- Responsive and user-friendly design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- HTML5, CSS3 Modules
+- JavaScript (or React, if applicable)
+
+## How to Run
+
+1. Clone the repository
+2. Open termonal and write `pnpm run dev`
+
+## Screenshots
+
+![App in action](https://github.com/KaninGleb/FreeCodeCamp-Certification/blob/main/assets/screenshots/03-Front-End-Development-Libraries/01-Random-Quote-Machine/Random-Quote-Machine-FullHD.png)
+
+## Certification
+
+This project is a part of my FreeCodeCamp certification project. </br>
+[Link to certification](https://github.com/KaninGleb/FreeCodeCamp-Certification)
+
+---
+
+I appreciate your stars ⭐️ and feedback!
